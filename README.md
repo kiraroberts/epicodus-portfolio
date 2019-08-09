@@ -4,15 +4,17 @@
 
 ## Description
 
-### Portfolio is a webpage that displays details about myself, and information and links about coding projects I have done.
+### Portfolio is a webpage that displays projects that I've worked on during my time at Epicodus as well as information about myself.
 
 ## Setup
 
-### To use Portfolio go to kiraroberts.github.io/portfolio/ in a web browser
+### To use Portfolio enter kiraroberts.github.io/portfolio/ into the address bar in a web browser.
 
 ## Technologies used
 
-### HTML, CSS, Bootstrap
+* ### HTML
+* ### CSS
+* ### Bootstrap
 
 ## Support and contact details
 

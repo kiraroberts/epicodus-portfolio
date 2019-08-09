@@ -8,7 +8,7 @@
 
 ## Setup
 
-### To use Portfolio enter kiraroberts.github.io/portfolio/ into the address bar in a web browser.
+### To use Portfolio enter kiraroberts.github.io/epicodus-portfolio/ into the address bar in a web browser.
 
 ## Technologies used
 

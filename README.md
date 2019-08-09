@@ -1,10 +1,10 @@
 # Portfolio
 
-## _By Kira Roberts_
+## _By Kira Roberts_ 08/09/2019
 
 ## Description
 
-### Portfolio is a webpage that displays projects that I've worked on during my time at Epicodus as well as information about myself.
+### Portfolio is a web app that displays projects that I've worked on during my time at Epicodus as well as information about myself.
 
 ## Setup
 

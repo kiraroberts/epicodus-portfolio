@@ -12,6 +12,9 @@ h1 {
 }
 
 .panel {
+  border-radius: 10px;
+  border-width: medium;
+  border-color: #A2C9C8;
   opacity: 0.88;
 }
 
@@ -45,4 +48,9 @@ blockquote {
 
 .panel-title {
   text-decoration: underline;
+}
+
+.about {
+  padding-left: 16px;
+  padding-right: 16px;
 }

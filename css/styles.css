@@ -37,3 +37,7 @@ blockquote {
   font-weight: bold;
   font-style: italic;
 }
+
+.subject {
+  text-align: center;
+}
